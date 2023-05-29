@@ -1,5 +1,6 @@
 # RNN-Project
 Abstract
+
 This academic paper scrupulously explores the feasibility of advanced deep learning
 algorithms, particularly the Recurrent Neural Networks (RNNs), for the prognostication of
 corporate defaults. The primary function of these neural architectures is to formulate a
@@ -9,7 +10,9 @@ their market performance metrics, and macroeconomic indicators. The fundamental
 ambition of this investigation is to ascertain the optimal configuration for such a task and to
 critically evaluate the suitability of RNNs for such a challenging application.
 
+
 I. Introduction
+
 *Objective*
 This scholarly composition aims to meticulously evaluate the efficacy of Recurrent Neural
 Networks (RNNs) in predicting the likelihood that a company will default within the span of a
@@ -53,14 +56,13 @@ humanity. Our confidence in the predictive models is cemented by the results der
 Monte Carlo Simulations. It is our aspiration that our diligence will yield meaningful results and
 contribute to the application of deep learning models for the financial market.
 
+
 II. Data Description
+
 *Basic Information*
 The dataset employed in this paper is credited to previous efforts of students working in the
 same subject, which is time series data consisting of 28 attributes (Financial, Market, and
 Stock), 5 consecutive years of 39,536 companies1
 (396 bankrupt and 39140 healthy) data
-sourcing from Bloomberg. A sample data of bankrupt company is presented in Table 1 shown
-below:
-Attributes
-Years
-Year 
+sourcing from Bloomberg. 
+
