@@ -14,6 +14,7 @@ critically evaluate the suitability of RNNs for such a challenging application.
 I. Introduction
 
 *Objective*
+
 This scholarly composition aims to meticulously evaluate the efficacy of Recurrent Neural
 Networks (RNNs) in predicting the likelihood that a company will default within the span of a
 year with a commendable degree of precision. The challenge of forecasting a company's
@@ -31,6 +32,7 @@ a profound and costly learning model is, indeed, economically justifiable in ful
 objective.
 
 *Methodology*
+
 The methodology employed in this paper encompasses three principal aspects: the compilation
 of the dataset, the construction of a conceptual model, and the derivation of predictive models.
 The process of training and evaluating a deep learning model necessitates an extensive amount
@@ -60,6 +62,7 @@ contribute to the application of deep learning models for the financial market.
 II. Data Description
 
 *Basic Information*
+
 The dataset employed in this paper is credited to previous efforts of students working in the
 same subject, which is time series data consisting of 28 attributes (Financial, Market, and
 Stock), 5 consecutive years of 39,536 companies1
